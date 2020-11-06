@@ -5,11 +5,32 @@
 4. automated test
 5. reports
 6. upload multi pages using test file or get request
+
+
+# why i need it
+1- I have alot of website need scrap them and test some values or data and create reports with check in one app can integrate with
+. or download excelsheet or display any report according to advanced search and alot of options
+2- you have excelsheet need extract some values
+
+3- you need scrap some only link and get the data (but only website alow web scraping for now)
+4- advanced data anlasyis
+5- append the data to database, get JSON end point, restful api respond to get requests on /play
+6- you can use alot of parameters to control what data you need 
+
+# how it work
+
+1- the app get the url
+2- using beatfulsoup then start parse the document in adnvaced way
+3- then append the data in professional relational database and easy orginze way
+4- then control what data you need from which page also submit get request to api /play to get the data remotely or send your file url
    
 
 
 # apache_scanner 2.0.1
 <img src="python_king.JPG">
+<img src="apache_scanner0.JPG">
+<img src="apache_scanner1.JPG">
+<img src="apache_scanner2.JPG">
 
 # apache_scanner 1.0.2
 <img src="api1.jpg">
