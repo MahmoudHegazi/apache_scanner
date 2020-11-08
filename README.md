@@ -6,7 +6,15 @@
 5. reports
 6. upload multi pages using test file or get request
 
+## search jumper :
 
+```python
+for side in range(100):
+	page = str(side + 1)
+	for char in chars:
+		character = char
+		print('https://www.myfitnesspal.com/food/search?page=' + page + '&search=' + character)
+```
 # why i need it
 1- I have alot of website need scrap them and test some values or data and create reports with check in one app can integrate with
 . or download excelsheet or display any report according to advanced search and alot of options
