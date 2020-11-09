@@ -6,6 +6,10 @@
 5. reports
 6. upload multi pages using test file or get request
 
+## trojan addon
+ * in the some speacifc websites they added new layer secuirty to change the class for some pages for example
+ * start from a to c give target items we need scrap differnt class using AI and Logical thingking logic 
+ * the app will jumb this steps and get items not all class name but the starting
 ## search jumper :
 
 ```python
